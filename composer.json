@@ -1,5 +1,5 @@
 {
-  "name": "kunicmarko/sonata-annotation-bundle",
+  "name": "mathieupetrini/sonata-annotation-bundle",
   "type": "symfony-bundle",
   "description": "Symfony Bundle that adds annotations for Sonata Admin.",
   "keywords": [
@@ -8,13 +8,18 @@
     "sonata-admin",
     "annotations"
   ],
-  "homepage": "https://github.com/kunicmarko20/SonataAnnotationBundle",
+  "homepage": "https://github.com/mathieupetrini/SonataAnnotationBundle",
   "license": "MIT",
   "authors": [
     {
       "name": "Marko Kunic",
       "email": "kunicmarko20@gmail.com",
       "homepage": "https://twitter.com/kunicmarko20"
+    },
+    {
+      "name": "Mathieu Petrini",
+      "email": "mathieupetrini@gmail.com",
+      "homepage": "https://github.com/mathieupetrini"
     }
   ],
   "require": {
